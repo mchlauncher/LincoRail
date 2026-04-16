@@ -1,7 +1,7 @@
 # Custom Language File for Launcher Customizer
 
 [ejs.app]
-title = "린코레일:제주행"
+title = "린코레일2"
 
 [ejs.landing]
 mediaGitHubURL = "https://github.com/mchlauncher/LincoRail"
@@ -18,6 +18,6 @@ sourceGithubLink = "https://github.com/mchlauncher/LincoRail"
 supportLink = "https://github.com/mchlauncher/LincoRail/issues"
 
 [ejs.welcome]
-welcomeHeader = "린코레일:제주행"
+welcomeHeader = "린코레일2"
 welcomeDescription = ""
 welcomeDescCTA = "[계속] 버튼을 눌러 계속 진행하여 주세요."
